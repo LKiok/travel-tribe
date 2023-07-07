@@ -137,6 +137,7 @@
   .section5 p {
     margin-bottom: 20px;
     color: #080000;
+    font-size: large;
   }
   
 
@@ -254,7 +255,7 @@
   
   .destination h3 {
     color: #fff;
-    
+
   }
   
   .destination img {
