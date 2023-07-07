@@ -1,0 +1,39 @@
+{
+    "destinations": [
+      {
+        "id": 1,
+        "name": "Sydney",
+        "image": "https://i.pinimg.com/236x/a3/43/74/a34374e1287bf1828491a43c5f160bd3.jpg",
+        "description": "Experience Sydney's vibrant charm: Iconic landmarks, stunning beaches, and a thriving cultural scene await you in Harbor city.",
+        "cost": "$350 - $700"
+      },
+      {
+        "id": 2,
+        "name": "New York City",
+        "image": "https://i.pinimg.com/236x/fd/d0/cb/fdd0cba3ff890a01e42f4b8d74993917.jpg",
+        "description": "The Big Apple beckons: Embrace the energy and endless possibilities of New York City!",
+        "cost": "$500-$1000"
+      },
+      {
+        "id": 3,
+        "name": "Moscow",
+        "image": "https://i.pinimg.com/236x/ca/9f/43/ca9f431f7e976b2f35537a27103e6d54.jpg",
+        "description": "Experience the majesty of Moscow: Unveil history, culture, and enchanting splendor in the Heart of Russia",
+        "cost": "$400-$800"
+      },
+      {
+        "id": 4,
+        "name": "Rome",
+        "image": "https://i.pinimg.com/236x/0d/cb/b8/0dcbb8a8c460740b6ff4ce16e24040e8.jpg",
+        "description": "Roam through time in Rome: Discover ancient marvels, artistic treasures, and the eternal charm of the Eternal City.",
+        "cost": "$300-$600"
+      },
+      {
+        "id": 5,
+        "name": "Bali",
+        "image": "https://i.pinimg.com/236x/9b/2f/4f/9b2f4f477c2572fdedcba16b19e697e2.jpg",
+        "description": "Bali Bliss: Surrender to serenity, unleash adventure, and experience tropical paradise in Bali",
+        "cost": "$200-$500"
+      }
+    ]
+  }
